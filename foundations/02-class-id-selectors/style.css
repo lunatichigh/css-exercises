@@ -1,8 +1,16 @@
-.odd {
+.odd, .cool {
     background-color: #FFB6C1;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 #num-2 {
     color: #0000FF;
     font-size: 36px;
+}
+.cool {
+    font-size: 24px;
+}
+#num-4 {
+    background-color: #88E788;
+    font-size: 24px;
+    font-weight: bold;
 }
